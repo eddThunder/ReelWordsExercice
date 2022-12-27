@@ -6,7 +6,7 @@ namespace ReelWordsTests
 {
     public class TrieTests
     {
-        private const string AWESOME_CO = "pierplay";
+        private const string AWESOME_CO = "squirrel";
 
         [Fact]
         public void TrieInsertTest()
